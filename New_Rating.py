@@ -1,1 +1,1 @@
-print("New Rating!")
+print("My new rating")
